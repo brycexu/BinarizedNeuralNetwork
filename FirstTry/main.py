@@ -30,3 +30,9 @@ test_pred = training(X_train, Y_train, X_val, Y_val, X_test, Y_test,
                      lr_end = 10.0,
                      epoch = 100,
                      batch_size = 60)
+
+
+
+
+
+
