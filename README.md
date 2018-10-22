@@ -10,5 +10,13 @@ Training_Accuracy: 99 %
 
 Validation_Accuracy: 92 %
 
+# Second Try:
+
+ResNet-18 (without binarization) on Cifar-10
+
+Training_Accuracy: 95%
+
+Validation_Accuracy: 90 %
+
 
 
