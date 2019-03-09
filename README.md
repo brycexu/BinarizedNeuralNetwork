@@ -4,7 +4,7 @@ https://arxiv.org/abs/1602.02830
 
 Copyright: Xianda Xu xiandaxu@std.uestc.edu.cn 
 
-LeNet
+LeNet (Tensorflow)
 ------
 Dataset: MNIST
 
@@ -14,7 +14,7 @@ Baseline Accuracy: 99.15%
 
 Binarized Accuracy: 92.87%
 
-Adapted AlexNet
+Adapted AlexNet (PyTorch)
 ------
 Dataset: CIFAR-10
 
@@ -30,7 +30,7 @@ Quantized Accuracy: 85.52% (8-bit training: https://arxiv.org/abs/1805.11046)
 
 <div align=center><img width="453" height="200" src="https://github.com/brycexu/BinarizedNeuralNetwork/blob/master/Adapted%20AlexNet/Images/Quantized.png"/></div>
 
-Vgg Net
+Vgg Net (PyTorch)
 ------
 Dataset: CIFAR-10
 
